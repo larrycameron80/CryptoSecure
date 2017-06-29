@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSecure", "CryptoSecure\CryptoSecure.csproj", "{11477332-CCBA-485A-878A-7A107D1C0C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSecure.ConsoleTests", "CryptoSecure.ConsoleTests\CryptoSecure.ConsoleTests.csproj", "{E8F424E3-FF8F-4E23-B7EF-3DB75B006741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11477332-CCBA-485A-878A-7A107D1C0C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11477332-CCBA-485A-878A-7A107D1C0C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11477332-CCBA-485A-878A-7A107D1C0C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11477332-CCBA-485A-878A-7A107D1C0C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F424E3-FF8F-4E23-B7EF-3DB75B006741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F424E3-FF8F-4E23-B7EF-3DB75B006741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F424E3-FF8F-4E23-B7EF-3DB75B006741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F424E3-FF8F-4E23-B7EF-3DB75B006741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
